@@ -2,5 +2,6 @@
 
 #[no_mangle]
 pub unsafe extern fn helloandroid() {
+	println!("hello world");
 }
 
